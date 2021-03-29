@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	height: 100vh;
+	background-image: linear-gradient(#33e1ed, #181818);
+	display: grid;
+	place-items: center;
+}
+input{
+	cursor: crosshair;
+}
